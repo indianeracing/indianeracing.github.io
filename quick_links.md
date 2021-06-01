@@ -12,13 +12,13 @@ subtitle: Report broken link at indianeracing@gmail.com
 ### ISRT Weekly Group Ride (RGT) Wednesday, 2nd June
 
 {: .box-note}
-**Registration link:** [https://app.rgtcycling.com/index.html?code=yjLtrNz3Fj](https://www.zwift.com/events/view/2110598)
+**Registration link:** [https://app.rgtcycling.com/index.html?code=yjLtrNz3Fj](https://app.rgtcycling.com/index.html?code=yjLtrNz3Fj)
 
 
 ### ISRT Tandoori Spice Race (Zwift) Friday, 4th June
 
 {: .box-note}
-**Registration link:** [https://www.zwift.com/events/view/2115991](https://www.zwift.com/events/view/2110598)
+**Registration link:** [https://www.zwift.com/events/view/2115991](https://www.zwift.com/events/view/2115991)
 
 
 ### ISRT 3-6h VTT Saturday, 12th June
