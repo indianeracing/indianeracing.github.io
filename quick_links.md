@@ -4,37 +4,31 @@ title: Pot of Links
 subtitle: Ride on
 ---
 
-### ISRT Weekly Group Ride (Zwift) Tuesday, 15th June
+### ISRT Mountain Handicap Race (Zwift) Saturday, 26th June
 
 {: .box-note}
-**Registration link:** Will be updated soon
+**Registration link:** [https://forms.gle/KPKhZ2CCHSoMf5V7A](https://forms.gle/KPKhZ2CCHSoMf5V7A)
 
 
-### ISRT Weekly Group Ride (RGT) Wednesday, 16th June
-
-{: .box-note}
-**Registration link:** Will be updated soon.
-
-
-### ISRT WTRL TTT Thursday/Friday, 10th/11th June
+### ISRT Weekly Group Ride (Zwift) Tuesday, 22nd June
 
 {: .box-note}
-**Join ISRT Discord for more info:** [https://discord.gg/YTPywqNVAm](https://discord.gg/YTPywqNVAm)
+**Registration link:** [https://www.zwift.com/events/view/2144367](https://www.zwift.com/events/view/2144367)
 
 
-### ISRT Tandoori Spice Race (Zwift) Friday, 11th June
-
-{: .box-note}
-**Registration link:** [https://www.zwift.com/events/view/2127249](https://www.zwift.com/events/view/2127249)
-
-
-### ISRT 3-6h VTT Saturday, 12th June
+### ISRT Weekly Group Ride (RGT) Wednesday, 23rd June
 
 {: .box-note}
-**Registration link:** [https://www.zwift.com/events/view/2121859](https://www.zwift.com/events/view/2121859)
+**Registration link:** [http://app.rgtcycling.com/event?code=wtLp46AQ6k](http://app.rgtcycling.com/event?code=wtLp46AQ6k)
 
 
-### ISRT Hill Repeats Training Sunday, 13th June
+### ISRT Tandoori Spice Race (Zwift) Friday, 25th June
+
+{: .box-note}
+**Registration link:** [https://www.zwift.com/events/view/2149292](https://www.zwift.com/events/view/2149292)
+
+
+### ISRT Hill Repeats Training Sunday, 27th June
 
 {: .box-note}
 **Join ISRT Discord for more info:** [https://discord.gg/YTPywqNVAm](https://discord.gg/YTPywqNVAm)
